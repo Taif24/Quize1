@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;//Q1
 class Student{
    public string Name;
    public int Age;
@@ -20,6 +20,17 @@ class Program{
         std1.DisplayInfo();
         std2.DisplayInfo();
         std3.DisplayInfo();
+
+    }
+}*/
+using System;
+namespace Q2;
+class Program2{
+    static void Main(string[] args){
+        int[] numbers = {2,3,4,6,7};
+        foreach(int num in numbers){
+            Console.WriteLine(num);
+        }// I Couldn't Make the sum:(
 
     }
 }
