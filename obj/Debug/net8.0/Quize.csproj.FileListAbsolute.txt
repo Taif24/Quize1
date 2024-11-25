@@ -1,0 +1,15 @@
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\obj\Debug\net8.0\Quize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\obj\Debug\net8.0\Quize.AssemblyInfoInputs.cache
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\obj\Debug\net8.0\Quize.AssemblyInfo.cs
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\obj\Debug\net8.0\Quize.csproj.CoreCompileInputs.cache
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\obj\Debug\net8.0\Quize.sourcelink.json
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\bin\Debug\net8.0\Quize.exe
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\bin\Debug\net8.0\Quize.deps.json
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\bin\Debug\net8.0\Quize.runtimeconfig.json
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\bin\Debug\net8.0\Quize.dll
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\bin\Debug\net8.0\Quize.pdb
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\obj\Debug\net8.0\Quize.dll
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\obj\Debug\net8.0\refint\Quize.dll
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\obj\Debug\net8.0\Quize.pdb
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\obj\Debug\net8.0\Quize.genruntimeconfig.cache
+C:\Users\taifa\OneDrive\Desktop\عال\Quize\obj\Debug\net8.0\ref\Quize.dll
