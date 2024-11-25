@@ -38,7 +38,7 @@ class Program2{
     }
 }*/
 //Q3
-class Program
+/*class Program
 {
     static void Main(string[] args){
         Console.WriteLine("Enter your Name: ");
@@ -50,5 +50,21 @@ class Program
     {
         Console.WriteLine("Hello " +name);
 
+    }
+}*/
+//Q4
+class Program{
+    static void Main(string[] args){
+        Console.WriteLine("Enter a number: ");
+        int num = int.Parse(Console.ReadLine());
+        if(num > 0 ){
+            Console.WriteLine("Positive");
+        }
+        else if(num < 0){
+            Console.WriteLine("Negative");
+        }
+        else if(num == 0){
+            Console.WriteLine("Zero");
+        }
     }
 }
