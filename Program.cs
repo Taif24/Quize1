@@ -1,4 +1,5 @@
-﻿/*using System;//Q1
+﻿//Q1
+/*using System;
 class Student{
    public string Name;
    public int Age;
@@ -23,7 +24,9 @@ class Program{
 
     }
 }*/
-using System;
+
+//Q2
+/*using System;
 namespace Q2;
 class Program2{
     static void Main(string[] args){
@@ -31,6 +34,21 @@ class Program2{
         foreach(int num in numbers){
             Console.WriteLine(num);
         }// I Couldn't Make the sum:(
+
+    }
+}*/
+//Q3
+class Program
+{
+    static void Main(string[] args){
+        Console.WriteLine("Enter your Name: ");
+        string name = Console.ReadLine();
+        GetGreeting(name);
+    }
+
+    private static void GetGreeting(string name)
+    {
+        Console.WriteLine("Hello " +name);
 
     }
 }
