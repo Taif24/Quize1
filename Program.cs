@@ -53,7 +53,7 @@ class Program2{
     }
 }*/
 //Q4
-class Program{
+/*class Program{
     static void Main(string[] args){
         Console.WriteLine("Enter a number: ");
         int num = int.Parse(Console.ReadLine());
@@ -66,5 +66,19 @@ class Program{
         else if(num == 0){
             Console.WriteLine("Zero");
         }
+    }
+}*/
+//Q5
+class Program{
+    static void Main(string[] args){
+int[] numbers = new int[20];
+for(int num = 1; num <= numbers.Length; num++){
+    Console.WriteLine(num);
+}
+int num1 = 20;
+while(num1 < 20){//I forget how to make the while loop:(
+
+}
+
     }
 }
